@@ -1,10 +1,7 @@
 package back.classesServlet;
 
-import back.db.InitialDB;
 import back.tables.Users;
 
-import javax.servlet.RequestDispatcher;
-import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

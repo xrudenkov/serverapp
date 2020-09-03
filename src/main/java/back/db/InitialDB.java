@@ -1,7 +1,11 @@
 package back.db;
 
 import back.exception.CoreError;
-import java.sql.*;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+
 import static java.lang.System.out;
 
 

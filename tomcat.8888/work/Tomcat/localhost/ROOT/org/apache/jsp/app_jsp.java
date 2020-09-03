@@ -8,9 +8,6 @@
  */
 package org.apache.jsp;
 
-import javax.servlet.*;
-import javax.servlet.http.*;
-import javax.servlet.jsp.*;
 import java.sql.ResultSet;
 
 public final class app_jsp extends org.apache.jasper.runtime.HttpJspBase

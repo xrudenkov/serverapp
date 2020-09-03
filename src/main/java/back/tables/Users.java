@@ -2,6 +2,7 @@ package back.tables;
 
 import back.db.ConnectionDB;
 import back.exception.CoreError;
+
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
